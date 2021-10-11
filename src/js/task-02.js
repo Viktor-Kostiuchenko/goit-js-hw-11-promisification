@@ -1,5 +1,3 @@
-//! SECOND TASK
-
 const users = [
   { name: 'Mango', active: true },
   { name: 'Poly', active: false },

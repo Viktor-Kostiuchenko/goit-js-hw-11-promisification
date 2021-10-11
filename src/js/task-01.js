@@ -1,5 +1,3 @@
-// ! FIRST TASK
-console.log('hello')
 const delay = ms => {
   return new Promise((resolve) => {
     setTimeout(() => {
